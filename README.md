@@ -1,2 +1,2 @@
 # BasicJavaScript
-These are some static websites with basic DOM examples and javascript.
+This is a collection of projects from tutorials for reference.
